@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF"/> <!-- Ichki fon (optional) -->
+    <stroke
+        android:width="2dp"
+        android:color="#d3d8e0"/> <!-- Border rangi va qalinligi -->
+    <corners android:radius="4dp"/> <!-- Burchaklarni yumaloqlash (optional) -->
+</shape>
